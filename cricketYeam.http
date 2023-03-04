@@ -1,0 +1,8 @@
+http://localhost:3000/players/
+ 
+####add player
+
+http://localhost:3000/players/
+
+### update player
+http://localhost:3000/players/:playerId
